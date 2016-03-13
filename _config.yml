@@ -9,7 +9,7 @@
 title: Landon's Coding Blog
 email: antosop@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Follow me as I explore the vast world of software development.
+  A simple blog about software development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username:
